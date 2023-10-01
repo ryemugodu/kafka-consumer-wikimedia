@@ -1,0 +1,1 @@
+Reads the data from the kafka topic and stores in MySql data base
